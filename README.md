@@ -17,4 +17,4 @@ I try to learn new technologies, especially artificial intelligence. I am keen o
 
 ### How to reach me:
 
-- Email: tetianabitiuk1701@gmail.com
+- Email: tetianavitiuk1701@gmail.com
