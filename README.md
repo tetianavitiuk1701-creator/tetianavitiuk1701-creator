@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**tetianavitiuk1701-creator/tetianavitiuk1701-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tetiana Vitiuk and I am a student, who are learning fundamentals of software engineering.
+I try to learn new technologies, especially artificial intelligence. I am keen on development and creating new projects.
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am studying "Software Engineering".
+- 🌱 I am currently actively studying **C++, working with Git/GitHub, and and a little bit frontend and backend developments**.
+- ⚡ My goal is to be a cool Software Engineer and Fulstack Developer.
+
+### Technological stack:
+
+- **Language:** C++
+- **Instruments:** Git, Github, VS Code, Visual Studio 2022
+- **Other:** CSS, HTML, documentation development, Markdown
+
+### How to reach me:
+
+- Email: tetianabitiuk1701@gmail.com
