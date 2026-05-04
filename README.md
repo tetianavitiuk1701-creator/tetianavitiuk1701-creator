@@ -18,3 +18,4 @@ I try to learn new technologies, especially artificial intelligence. I am keen o
 ### How to reach me:
 
 - Email: tetianavitiuk1701@gmail.com
+- Linkedin: linkedin.com/in/tetiana-vitiuk-045950407
